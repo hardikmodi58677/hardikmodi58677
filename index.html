@@ -14,6 +14,24 @@
     line-height: 1.6;
 }
 
+.profile-pic-container {
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.profile-pic {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
 header {
     background-color: #0073e6;
     color: white;
@@ -175,6 +193,9 @@ footer a:hover {
 </head>
 <body>
     <header>
+        <div class="profile-pic-container">
+        <img src="https://avatars.githubusercontent.com/u/48747863?s=400&u=ec9230980ec47330e49b274db6d4e79bd5980801&v=4" alt="Hardik Modi" class="profile-pic">
+        </div>
         <h1>Hardik Modi</h1>
         <p>Full Stack Developer | MERN Specialist </p>
         <div class="contact-info">
