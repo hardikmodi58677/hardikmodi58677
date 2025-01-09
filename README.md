@@ -27,7 +27,7 @@
 - 🧑‍🎓 **Software Developer at:** [Infovision Labs](https://www.infovision.com/)
 - 💬 **Ask me about:** **JavaScript | Software Development | AWS | Scraping**
 - 📫 **Reach me at:** [hardikmodi58@gmail.com](mailto:hardikmodi58@gmail.com)
-- 📄 **View my resume:** [Updated Resume](https://hardikmodi-resume.tiiny.site)
+- 📄 **View my resume:** [Here](https://bit.ly/hardik-sde)
 
 </td>
 <td width="50%" align="center">
