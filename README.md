@@ -23,11 +23,12 @@
 <tr>
 <td width="50%" align="left">
 
-- 🌱 **Currently learning:** **Rust**
-- 🧑‍🎓 **Software Developer at:** [Infovision Labs](https://www.infovision.com/)
-- 💬 **Ask me about:** **JavaScript | Software Development | AWS | Scraping**
-- 📫 **Reach me at:** [hardikmodi58@gmail.com](mailto:hardikmodi58@gmail.com)
-- 📄 **View my resume:** [Here](https://bit.ly/hardik-sde)
+### 🙋‍♂️ About Me
+- 🌱 **Currently Learning:** **Rust**
+- 🧑‍💻 **Software Developer at:** [Infovision Labs](https://www.infovision.com/)
+- 💬 **Ask Me About:** **JavaScript | Software Development | AWS | Scraping**
+- 📫 **Reach Me At:** [hardikmodi58@gmail.com](mailto:hardikmodi58@gmail.com)
+- 📄 **View My Resume:** [Click Here](https://bit.ly/hardik-sde)
 
 </td>
 <td width="50%" align="center">
