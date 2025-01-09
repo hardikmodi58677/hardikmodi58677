@@ -32,15 +32,7 @@
             font-size: 1.2rem;
         }
 
-        .burger-bar {
-            background-color: white;
-            height: 4px;
-            width: 30px;
-            margin: 3px 0;
-        }
-
         .contact-info {
-            display: none;
             flex-direction: column;
             position: absolute;
             top: 50px;
@@ -58,12 +50,6 @@
 
         .contact-info a:hover {
             text-decoration: underline;
-        }
-
-        @media (max-width: 768px) {
-            .burger-menu {
-                display: flex;
-            }
         }
 
         .skills-header {
@@ -152,12 +138,6 @@
             text-decoration: underline;
         }
     </style>
-<script>
-        function toggleMenu() {
-            const contactInfo = document.querySelector('.contact-info');
-            contactInfo.style.display = contactInfo.style.display === 'flex' ? 'none' : 'flex';
-        }
-    </script>
 </head>
 <body>
     <header>
