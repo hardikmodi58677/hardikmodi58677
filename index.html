@@ -32,21 +32,38 @@
             font-size: 1.2rem;
         }
 
+        .burger-bar {
+            background-color: white;
+            height: 4px;
+            width: 30px;
+            margin: 3px 0;
+        }
+
         .contact-info {
+            display: none;
+            flex-direction: column;
             position: absolute;
-            top: 10px;
+            top: 50px;
             right: 20px;
-            text-align: right;
+            background-color: #0073e6;
+            padding: 1rem;
+            border-radius: 8px;
         }
 
         .contact-info a {
             color: white;
             text-decoration: none;
-            margin-left: 10px;
+            margin: 0.5rem 0;
         }
 
         .contact-info a:hover {
             text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            .burger-menu {
+                display: flex;
+            }
         }
 
         .skills-header {
@@ -135,16 +152,22 @@
             text-decoration: underline;
         }
     </style>
+<script>
+        function toggleMenu() {
+            const contactInfo = document.querySelector('.contact-info');
+            contactInfo.style.display = contactInfo.style.display === 'flex' ? 'none' : 'flex';
+        }
+    </script>
 </head>
 <body>
     <header>
         <h1>Hardik Modi</h1>
-        <p>Full Stack Developer | MERN Specialist</p>
+        <p>Full Stack Developer | MERN Specialist </p>
         <div class="contact-info">
             <a href="mailto:hardikmodi58@gmail.com">hardikmodi58@gmail.com</a>
             <a href="https://www.linkedin.com/in/hardikmodi58677">LinkedIn</a>
             <a href="https://github.com/hardikmodi58677">GitHub</a>
-            <a href="/resume.pdf" target="_blank">View Resume</a>
+            <a href="/hardik-resume.pdf" target="_blank">View Resume</a>
         </div>
     </header>
     <div class="skills-header">
