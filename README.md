@@ -16,7 +16,7 @@
 - View my resume <a href="https://hardik-resume.tiiny.site" target="_blank">here</a>
 - 🌱 Currently learning **Rust**
 
-- 🧑‍🎓 Software Developer at [Recrosoft Technologies Pvt](https://www.recro.io/)
+- 🧑‍🎓 Software Developer at [Infovision labs](https://www.infovision.com/)
 
 - 💬 Ask me about **Javascript | Software Development | AWS | Scraping**
 
